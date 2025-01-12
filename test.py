@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 # Load data
-df = pd.read_csv("data\df_clear.csv")
+df = pd.read_csv("data/df_clear.csv")
 
 # data preparation
 X = df.drop("Hasil_Tes", axis = 1)
