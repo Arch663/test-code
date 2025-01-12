@@ -1,0 +1,9 @@
+streamlit
+extra-streamlit-components
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+st-circular-progress
+scikit-learn
